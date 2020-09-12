@@ -1,0 +1,113 @@
+B站录屏！！！
+结合视频？？？方式。
+英文打印：A Laboratory For Teaching + Paper Reading (准备资料15页左右)
+
+建议提前功课。 ood。poeaa posa tdd。设计模式至少十个以上。 solid。 paper。了解的作者。技术评审加入ddd和领域问题，
+
+CRUD:
+
+PATTERN:
+
+
+
+springweb应用程序最大的缺陷:https://www.petrikainulainen.net/software-development/design/the-biggest-flaw-of-spring-web-applications/
+
+EJB->Spring（贫血模型）->DDD(充血模型)?
+演变：1 围绕数据库 2 OOAD 3 DDD(软件开发) SOA(软件集成)
+
+Saas对象：
+AO，Bean，BO，DTO
+
+design by buzzword(时髦)
+
+
+
+
+面向对象与领域建模：https://www.jdon.com/mda/modeling.html
+
+应用架构演进之路：两条线，技术层面（单体->severless->fass），实现层面(ssm->ddd)
+
+统一语言：风控(哪些限界上下文？)，微服务(有什么？)，Saas，合约。团队统一语言。 PublicInfo，多语言，KV，充提，币种币对，Symbol。ConfigCoinSymbol，
+transaction_deposit_crypto，transaction，account，config_kv_store(redis叫什么)，history_account，
+
+
+业务层缺少“”业务对象的概念“”。
+业务层缺少  “”会话Facade，你知道调用了多少个风控接口吗？你知道调用了多少第三方服务吗？调用风控Facade，以及风控给你配置的url吗？项目中本地缓存有多少个？“”。
+HttpClient是技术维度的，而不是业务组件维度，所以没调用一次风控，基本上代码重复了一次
+
+Contoller层业务逻辑迁移到Service层，大多数情况下也只是逻辑复用，而不是业务复用。
+
+康威定律角度来看，微服务和Saas区别不大。
+
+MVC导致贫血模式。业务逻辑在Service里面了。实际应该在领域模型中。我们写的一直是事务脚本，而不是业务逻辑。每天用Java在写脚本。
+
+OO和FP，FP提倡贫血，因为数据和行为分离。
+
+重构：1 深层模型重构  2 代码重构
+
+
+
+
+事务层 “”保证对象的一致性还是保证数据库的一致性“”  DDD思考是对象，而业务是数据库。
+
+
+
+英文：
+
+软件设计的学习很慢，和架构设计不同，架构设计偏向于方案解决，这方案解决在baidu，google 百分之99都有答案，你做的只是接入自己系统，
+但是软件设计是需要长期学习的，两个团队牛逼的架构，实现却可能很烂，很难维护。设计很多时候是在创造，创作。
+
+10个if语句是不是用策略呢？
+
+Map<String, Object> 还是DTO还是BO还是POJO？
+
+CRUD技术点在哪里？PATTERN如何玩转？OOAD基础设计问题？DDD如何改变思考？
+Mybatis-Plus和JPA注定被淘汰。
+
+Faas实现设计
+
+智能家具的设计
+
+性能测试设计
+
+英文打印：A Laboratory For Teaching + Paper Reading (准备资料15页左右)
+
+提前功课。 ood。poeaa posa tdd。设计模式至少十个以上。 solid。 paper。了解的作者。技术评审加入ddd和领域问题
+
+英文：
+
+软件设计的学习很慢，和架构设计不同，架构设计偏向于方案解决，这方案解决在baidu，google 百分之99都有答案，你做的只是接入自己系统，
+但是软件设计是需要长期学习的，两个团队牛逼的架构，实现却可能很烂，很难维护。设计很多时候是在创造，创作。
+
+10个if语句是不是用策略呢？
+
+CRUD技术点。
+
+对象阻抗计算。
+
+Faas实现设计
+
+智能家具的设计
+
+性能测试设计
+
+起名字，saas举例子，RedisClient, FactoryUtil,充值
+交易：Transaction
+流水：Journal
+
+DDD:转账时候，怎么需要冻结场外信息？
+
+
+软件设计的学习很慢，和架构设计不同，架构设计偏向于方案解决，这方案解决在baidu，google 百分之99都有答案，你做的只是接入自己系统，
+但是软件设计是需要长期学习的，两个团队牛逼的架构，实现却可能很烂，很难维护。设计很多时候是在创造，创作。为什么别人能写出docker呢？
+
+
+10个if语句是不是用策略呢？
+
+软件设计的学习很慢，和架构设计不同，架构设计偏向于方案解决，这方案解决在baidu，google 百分之99都有答案，你做的只是接入自己系统，
+但是软件设计是需要长期学习的，两个团队牛逼的架构，实现却可能很烂，很难维护。设计很多时候是在创造，创作。为什么别人能写出docker呢？
+
+hibernate ogm orm
+
+DDD：领域驱动设计框架Axon实践
+https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247487853&idx=1&sn=b8d6082af3aa72a118671b0ae0335052&chksm=e9768d4ede010458116d36dcdd27269f4f76e5252620d0a5428a9610d38df6a7f1d573dd3141&mpshare=1&scene=1&srcid=09041RqELm8xSnOVdMidLSfe&sharer_sharetime=1599219674806&sharer_shareid=ae6c7f13f4da129c8a1b68d14d21ed46&key=b0fdc56487fbfe0f1bb034d277ca42298f32ff7765abbfa8303aa50da2bb98b0b3d470fb42644f50f6ea5a3b057141df0320d9d25b786c3961073269e52b3c8f6347cc6318487d86bf0401d758cfde1d1ce3c7f3f4c590cc15ff69c1ce94f0ed21d4e4912a82c8c970f42916858bf5dd8f5a110e9429440eb104f8f1c50eae3e&ascene=1&uin=MjU0NDU1ODI2MQ%3D%3D&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AX8VYux7a7MDWBWWpyKwf8w%3D&pass_ticket=ys0teLXB09ROpOkPx5nDmhdUTuRzvi9gpgYcHgnD7oO6nZ9hlQG%2B4xrcv%2FNeUl7T&wx_header=0
