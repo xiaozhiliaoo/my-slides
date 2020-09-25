@@ -1,8 +1,10 @@
-B站录屏！！！
-结合视频？？？方式。
-英文打印：A Laboratory For Teaching + Paper Reading (准备资料15页左右)
+英文打印：A Laboratory For Teaching + Paper Reading (准备资料20页左右)
 
-建议提前功课。 ood。poeaa posa tdd。设计模式至少十个以上。 solid。 paper。了解的作者。技术评审加入ddd和领域问题，
+准备CRC卡，建模对象！！！！重构Redis模板类设计，并加重试策略。
+
+Spring最大的弊处在于帮你创建对象。也是最大的益处。注入接口。
+
+建议提前功课。 ood。poeaa posa tdd。设计模式至少十个以上。 solid。 paper。了解的作者。
 
 CRUD:
 
@@ -111,3 +113,6 @@ hibernate ogm orm
 
 DDD：领域驱动设计框架Axon实践
 https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247487853&idx=1&sn=b8d6082af3aa72a118671b0ae0335052&chksm=e9768d4ede010458116d36dcdd27269f4f76e5252620d0a5428a9610d38df6a7f1d573dd3141&mpshare=1&scene=1&srcid=09041RqELm8xSnOVdMidLSfe&sharer_sharetime=1599219674806&sharer_shareid=ae6c7f13f4da129c8a1b68d14d21ed46&key=b0fdc56487fbfe0f1bb034d277ca42298f32ff7765abbfa8303aa50da2bb98b0b3d470fb42644f50f6ea5a3b057141df0320d9d25b786c3961073269e52b3c8f6347cc6318487d86bf0401d758cfde1d1ce3c7f3f4c590cc15ff69c1ce94f0ed21d4e4912a82c8c970f42916858bf5dd8f5a110e9429440eb104f8f1c50eae3e&ascene=1&uin=MjU0NDU1ODI2MQ%3D%3D&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AX8VYux7a7MDWBWWpyKwf8w%3D&pass_ticket=ys0teLXB09ROpOkPx5nDmhdUTuRzvi9gpgYcHgnD7oO6nZ9hlQG%2B4xrcv%2FNeUl7T&wx_header=0
+
+
+
