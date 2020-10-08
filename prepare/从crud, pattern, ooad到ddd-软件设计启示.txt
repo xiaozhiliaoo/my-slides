@@ -1,5 +1,20 @@
 英文打印：A Laboratory For Teaching + Paper Reading (准备资料20页左右)
 
+
+Preparation Materials：
+1 OOD Heuristics 3
+2 DDD Heuristics
+2 Bruce Eckel On Java8 Programming Guidelines About Design and Implementation 5
+3 Bumper-Sticker API Design(Effective Java3 HighLevel) 2
+4 GOF Quick Guide  1
+5 A Philosophy of Software Design   John Ousterhout  软件设计哲学 2
+6 Kent Beck  implementation patterns  实现模式 2
+
+
+7YQBgVRU123
+
+
+
 准备CRC卡，建模对象！！！！重构Redis模板类设计，并加重试策略。
 
 Spring最大的弊处在于帮你创建对象。也是最大的益处。注入接口。
