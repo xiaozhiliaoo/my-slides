@@ -2,7 +2,7 @@
 my  presentations about technology share
 
 ## 我分享过的技术
-- [对话函数的自动化测试](https://github.com/xiaozhiliaoo/animal-shark) 基于JMH的压力测试，TestNg的功能测试(2018-04)，博客：https://blog.51cto.com/thinklili/2114124
+- [对话函数的自动化测试](https://github.com/xiaozhiliaoo/animal-shark) 基于JMH的压力测试，TestNg的功能测试(2018-04)
 - [springboot-and-microservice](springboot-and-microservice.pptx) springboot和微服务(2019-06)
 - [design-pattern-JDK](design-pattern-JDK.pptx) JDK源码中的设计模式(2019-08)
 - [easy-understand-mq](easy-understand-mq.pptx) 简单理解mq，mq中的常见问题(2020-06)
