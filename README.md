@@ -11,6 +11,7 @@ my  presentations about technology share
 7. [maven-dependency-conflict-by-example](maven-dependency-conflict-by-example.pptx) maven依赖冲突解决思路-案例驱动  [B站录屏](https://www.bilibili.com/video/BV1Uy4y127xE)(2021-01-10)
 8. [instant-java-collection-framework](instant-jcf.pptx)  浅入浅出Java集合框架 [B站录屏](https://www.bilibili.com/video/BV18A411M7uM)(2021-02-25)
 9. [exchange-technology](exchange-technology.pptx) 数字货币交易所技术分享(2021-04-16)
+9. [akka classic cluster](akka-classic-cluster.pptx) 经典actor模型下的akka 集群分享(2022-04-12) 
 
 
 ## 正在准备中
