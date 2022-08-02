@@ -12,7 +12,8 @@ my  presentations about technology share
 8. [instant-java-collection-framework](instant-jcf.pptx)  浅入浅出Java集合框架 [B站录屏](https://www.bilibili.com/video/BV18A411M7uM)(2021-02-25)
 9. [exchange-technology](exchange-technology.pptx) 数字货币交易所技术分享(2021-04-16)
 9. [akka classic cluster](akka-classic-cluster.pptx) 经典actor模型下的akka 集群分享(2022-04-13) 
-9. [Cassandra In Online Education](cassandra_in_online_education.pptx) Cassandra在线教育使用。2022年 [Apache Cassandra World Party](https://www.cassandraworldparty.org/)分享。(2022-07-21 09:00:00)   [Youtube地址4:30开始](https://www.youtube.com/watch?v=_kkx8f96j0M)
+9. [Cassandra In Online Education](cassandra_in_online_education.pptx) Cassandra在线教育使用。2022年 [Apache Cassandra World Party](https://www.cassandraworldparty.org/)分享。(2022-07-21 09:00:00)   [Youtube地址4:30开始](https://www.youtube.com/watch?v=_kkx8f96j0M)\
+9. [Parallel Functional Programming with Java ](Parallel-Functional-Programming-with-Java.pdf)  (2022-08-02)
 
 
 ## 正在准备中
