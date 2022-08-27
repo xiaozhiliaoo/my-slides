@@ -1,5 +1,5 @@
-# presentations
-my  presentations about technology share
+# Tech Slide
+我的技术分享。分享主题主要有：经典论文，系统架构，基础技术，通用框架，分布式存储，分布式系统，大规模技术演进之类的话题。
 
 ## 我分享过的技术
 1. [对话函数的自动化测试](https://github.com/xiaozhiliaoo/animal-shark) 基于JMH的压力测试，TestNg的功能测试(2018-04)
