@@ -17,6 +17,7 @@
 9. [akka classic cluster](akka-classic-cluster.pptx) 经典actor模型下的akka 集群分享(2022-04-13) **中间件** 
 9. [Cassandra In Online Education](cassandra_in_online_education.pptx) Cassandra在线教育使用。2022年 [Apache Cassandra World Party](https://www.cassandraworldparty.org/)分享。(2022-07-21 09:00:00)   [Youtube地址4:30开始](https://www.youtube.com/watch?v=_kkx8f96j0M) **分布式存储**
 9. [Parallel Functional Programming with Java ](Parallel-Functional-Programming-with-Java.pdf)  Java的并行函数式编程(2022-08-03）**框架**
+9. [Database Cassandra](Database-Cassandra.pptx) 从零开始Cassandra-原理与应用 **数据库**
 
 
 ## 正在准备中
